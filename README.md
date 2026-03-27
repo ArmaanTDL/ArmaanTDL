@@ -1,8 +1,6 @@
 # Hey there! 👋 I'm Armaan
-
 > CS undergrad from Punjab, India — I build with data and AI.  
 > If an idea hits me, I'll prototype it, ship it, and probably over-engineer it a little.
-
 ---
 
 ## 🧰 My Stack
@@ -14,7 +12,6 @@ Data & ETL    →  ETL Pipelines · SPSS · MS Office
 AI & Agents   →  Claude AI · FastAPI · PostgreSQL
 Frontend      →  Next.js · TypeScript
 ```
-
 ---
 
 ## 🚀 Things I've Built
@@ -22,10 +19,10 @@ Frontend      →  Next.js · TypeScript
 | Project | What it does |
 |--------|-------------|
 | **IownOS** | Autonomous AI email & calendar agent — Next.js, TypeScript, Claude AI, Gmail & Google Calendar APIs |
-| **YT TrendLens** — Full-stack YouTube trending analyzer with ML viral predictor (Next.js + FastAPI + scikit-learn) |
+| **YT TrendLens** | Full-stack YouTube trending analyzer with ML viral predictor (Next.js + FastAPI + scikit-learn) |
 | **Trip Snap** | Mobile travel data collection app built for a real client (NATPAC) — trip recording, companion tracking, research dashboard |
 | **Hyper Reality Shield** | Smart AR/VR helmet concept with real-time data, privacy overlays, and personalized UX |
-| **Bengaluru House Price Predictor** — End-to-end ML app with LightGBM + CatBoost ensemble, deployed via Flask |
+| **Bengaluru House Price Predictor** | End-to-end ML app with LightGBM + CatBoost ensemble, deployed via Flask |
 
 ---
 

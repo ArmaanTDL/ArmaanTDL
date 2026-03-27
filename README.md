@@ -22,17 +22,16 @@ Frontend      →  Next.js · TypeScript
 | Project | What it does |
 |--------|-------------|
 | **IownOS** | Autonomous AI email & calendar agent — Next.js, TypeScript, Claude AI, Gmail & Google Calendar APIs |
+| **YT TrendLens** — Full-stack YouTube trending analyzer with ML viral predictor (Next.js + FastAPI + scikit-learn) |
 | **Trip Snap** | Mobile travel data collection app built for a real client (NATPAC) — trip recording, companion tracking, research dashboard |
 | **Hyper Reality Shield** | Smart AR/VR helmet concept with real-time data, privacy overlays, and personalized UX |
+| **Bengaluru House Price Predictor** — End-to-end ML app with LightGBM + CatBoost ensemble, deployed via Flask |
 
 ---
 
 ## 🏅 Certifications
 
-- 🟠 Oracle Cloud Infrastructure — **Generative AI Professional** (Sep 2025)
-- 🟠 Oracle Cloud Infrastructure — **Data Science Professional** (Aug 2025)
-- 🔵 Microsoft Certified — **Power Platform Fundamentals** (Nov 2025)
-- 🟢 Google — **Prompt Design in Vertex AI** (Jun 2025)
+Oracle GenAI · Oracle Data Science · Microsoft Power Platform · Google Vertex AI
 
 > Collecting certs the way some people collect anime figures.
 
@@ -45,7 +44,6 @@ Frontend      →  Next.js · TypeScript
 - 🤝 I volunteer with NGOs when I'm not debugging at 2am
 - 📄 I wrote a research paper once. It was painful. Worth it.
 - ☕ Coffee is fine. Sleep is better.
-
 ---
 
 ## 📬 Let's Connect
